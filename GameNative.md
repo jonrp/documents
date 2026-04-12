@@ -29,7 +29,7 @@ This is has fixed controls for **Binary Domain** and **Tokyo Xtreme Racer**.
 > If past this point the game still doesn't work, just give up for now.
 
 
-## Games confirmed to work (GameNative v0.9.0)
+## Compatibility list (GameNative v0.9.0)
 
 | Game  | Source | Graphics | Emulation | Notes |
 | - | - | - | - | - |
