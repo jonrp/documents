@@ -25,10 +25,9 @@
 
 ## Games confirmed to work (GameNative v0.9.0 rc1)
 
-| Game  | Source | Notes |
-| - | - | - |
-| Content Cell  | Content Cell  |  |
-| Content Cell  | Content Cell  |  |
+| Game  | Source | Graphics | Emulation | Notes |
+| - | - | - | - | - |
+|  |  |  |  |  |
 
 ## Improve compatibility
 
