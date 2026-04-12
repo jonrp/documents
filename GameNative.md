@@ -42,6 +42,8 @@ If it still fails, try to switch General > Wine Version to proton-10.0-arm64ec.
 
 If it still fails, try to switch Graphics > DXVK Version to 2.6.1-gplasync; For DirectX 12 games the DX Wrapper will be VK3D and it's worth a shot to try version 3.0b.
 
+Once everything run, you can try to push Emulation > FEXCore Preset > Performance for extra performance (from what I've read Extreme is the same as Performance so no need to go further).
+
 ## Troubleshooting graphics
 
 If the games works (DXVK) but with flickering graphics / shadows, switch Graphics > DXVK Version to async-1.10.3
