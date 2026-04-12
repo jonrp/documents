@@ -9,6 +9,7 @@
 
 > [!NOTE]
 > A new stable version of FEX has come out and is not included in GameNative yet by default, you can download it and import it yourself from https://github.com/StevenMXZ/Winlator-Contents/blob/main/FEXCore/2604.wcp
+> 
 > From tests so far it improves slightly performance and stability, and generally has new logic to reduce ram usage.
 
 ## Troubleshooting running
