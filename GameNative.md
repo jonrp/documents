@@ -36,7 +36,7 @@ This will be the baseline config we use for all games.
 
 ## Troubleshooting running
 
-Now once you install a game, try to run it, if it fails, a good idea is to run the container and manually run the prerequisites installers (aka PhysX / DirectX / VCRedist). They are normally under C:\Program Files (x86)\Steam\common\steamapp\<gamename>\_CommonRedit, but GameNative seems to have a bug currently that downloads them to the game folder root and doesn't auto install them.
+Now once you install a game, edit the container to select the executable to launch and try to run it, if it fails, a good idea is to run the container and manually run the prerequisites installers (aka PhysX / DirectX / VCRedist). They are normally under C:\Program Files (x86)\Steam\common\steamapp\<gamename>\_CommonRedit, but GameNative seems to have a bug currently that downloads them to the game folder root and doesn't auto install them.
 
 If it still fails, try to switch General > Wine Version to proton-10.0-arm64ec.
 
