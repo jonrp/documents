@@ -18,12 +18,18 @@
 
 ## Troubleshooting controls
 
+Some games will run but with messed up or non responding controls. While this is a known area in needs of improvement in GameNative, so far a couple of games got fixed by doing the following:
+- In the game container settings disable SDL / XInput
+- Run the container (not the game)
+- Go into controls and force the pad into disable state
+
+This is has fixed controls for **Binary Domain** and **Tokyo Xtreme Racer**.
 
 > [!WARNING]
 > If past this point the game still doesn't work, just give up for now.
 
 
-## Games confirmed to work (GameNative v0.9.0 rc1)
+## Games confirmed to work (GameNative v0.9.0)
 
 | Game  | Source | Graphics | Emulation | Notes |
 | - | - | - | - | - |
