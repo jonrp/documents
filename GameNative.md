@@ -25,7 +25,7 @@ This will be the baseline config we use for all games.
 - Wine Components
   - DirectSound: Setting it to Builtin (Wine) fixed audio for a few games for me
 - Environment
-  - DXVK_FRAME_RATE: allows you to cap game framerate, usually a good idea to cap at 30 or 40 for better performance / battery life
+  - DXVK_FRAME_RATE: allows you to cap game framerate, usually a good idea to cap at 30 or 40 for better performance / battery life (except for games that rely on 60 fps for their gameplay logic)
 - Advanced
   - Processor Affinity: uncheck CPU7 for better stability
 
@@ -102,6 +102,7 @@ This is has fixed controls for _Binary Domain_ and _Tokyo Xtreme Racer_.
 | Sekiro: Shadows Die Twice | Steam | OK |  |  |
 | Sleeping Dogs | Steam | OK |  |  |
 | Sonic & All-Stars Racing Transformed | Steam | OK |  |  |
+| Street Fighter V | Steam | OK | requires 60 fps |  |
 | The Evil Within | Steam | OK |  |  |
 | The Planet Crafter | Steam | KO |  |  |
 | The Saboteur | Steam | OK |  |  |
