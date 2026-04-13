@@ -4,7 +4,7 @@
 > [!IMPORTANT]
 > Get it from https://gamenative.app/
 
-Then after logging into your steam account, make sure to go into settings and toggle off _Auto-apply known config_; While it's supposed to be helpful, you don't really know which config it's fetching (and currently it's really a mess if you go have a look into GameNative's compatibility list). You can always trigger it manually on a game if you feel lucky.
+Then after logging into your steam account, make sure to go into settings and toggle off _Auto-apply known config_; While it's supposed to be helpful, you don't really know which config it's fetching (and currently it's really a mess if you go have a look into GameNative's compatibility list). You can always trigger it manually on a game [if you feel lucky](http://www.quickmeme.com/img/28/28ef42680e4363e428684f5c703d5cda9f1d4958a37af18a2f466fb128f6f139.jpg).
 
 ## Default config
 
