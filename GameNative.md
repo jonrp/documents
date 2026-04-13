@@ -44,6 +44,8 @@ If it still fails, try to switch Graphics > DXVK Version to 2.6.1-gplasync; For 
 
 Once everything run, you can try to push Emulation > FEXCore Preset > Performance for extra performance (from what I've read Extreme is the same as Performance so no need to go further).
 
+Generally for best performance you can set everything to low (especially textures, on a small screen you won't really see the difference) with anisotropic filtering X16, disable AA, and let it rip.
+
 ## Troubleshooting graphics
 
 If the games works (DXVK) but with flickering graphics / shadows, switch Graphics > DXVK Version to async-1.10.3
@@ -63,9 +65,49 @@ This is has fixed controls for _Binary Domain_ and _Tokyo Xtreme Racer_.
 
 ## Compatibility list (GameNative v0.9.0)
 
-| Game  | Source | Graphics | Emulation | Notes |
+| Game  | Source | Status | Non-default settings | Notes |
 | - | - | - | - | - |
-|  |  |  |  |  |
+| Alice: Madness Returns | Steam |  |  |  |
+| Alpha Protocol | Steam | OK |  |  |
+| BallisticNG | Steam | OK |  |  |
+| Binary Domain | Steam | OK |  |  |
+| BLUE REVOLVER | Steam | OK |  |  |
+| Blur | Custom | OK |  |  |
+| Brutal Legend | Steam | OK |  |  |
+| Bully | Steam | KO |  |  |
+| Castle of Illusion | Steam | OK |  |  |
+| Castlevania: Lord of Shadow | Steam | OK |  |  |
+| Castlevania: Lord of Shadow - Mirror of Fate | Steam | OK |  |  |
+| Castlevania: Lord of Shadow 2 | Steam | OK |  |  |
+| Condemned: Criminal Origin | Steam |  |  |  |
+| Dead Rising | Steam | OK |  |  |
+| Dishonored | Steam | OK |  |  |
+| Driver San Francisco | Custom | OK |  |  |
+| DuckTales Remastered | Steam | OK |  |  |
+| Fallout: New Vegas | Steam | OK |  |  |
+| Just Cause 2 | Steam | KO |  |  |
+| Lost Planet: Extreme Condition | Steam | KO |  |  |
+| Mad Max | Steam | OK |  |  |
+| Metal Gear Rising: Revengeance | Steam | OK |  |  |
+| Metal Gear Solid V: The Phantom Pain | Steam | OK |  |  |
+| Metal Wolf Chaos XD | Steam | OK |  |  |
+| Monster Hunter: World | Steam | OK |  |  |
+| NieR Replicant | Steam | OK |  |  |
+| Outrun 2006 Coast 2 Coast | Custom |  |  |  |
+| Prey | Steam | OK |  |  |
+| Resident Evil 2 (Remake) | Steam | OK |  |  |
+| Resonance of Fate | Steam | OK |  |  |
+| Sega Rally Revo | Custom | KO |  |  |
+| Sekiro: Shadows Die Twice | Steam | OK |  |  |
+| Sleeping Dogs | Steam | OK |  |  |
+| Sonic & All-Stars Racing Transformed | Steam | OK |  |  |
+| The Evil Within | Steam | OK |  |  |
+| The Planet Crafter | Steam | KO |  |  |
+| The Saboteur | Steam | OK |  |  |
+| Tokyo Xtreme Racer | Steam | OK |  |  |
+| Vanquish | Steam | OK |  |  |
+| Wolverine | Custom | KO |  |  |
+| Yakuza 0 | Steam | OK |  |  |
 
 ## Improve compatibility
 
