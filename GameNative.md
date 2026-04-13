@@ -70,6 +70,7 @@ This is has fixed controls for _Binary Domain_ and _Tokyo Xtreme Racer_.
 | Alice: Madness Returns | Steam |  |  |  |
 | Alpha Protocol | Steam | OK |  |  |
 | BallisticNG | Steam | OK |  |  |
+| Berserk and the Band of the Hawk | Steam | KO |  |  |
 | Binary Domain | Steam | OK |  |  |
 | BLUE REVOLVER | Steam | OK |  |  |
 | Blur | Custom | OK |  |  |
