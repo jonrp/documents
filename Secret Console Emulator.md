@@ -10,7 +10,7 @@ This will be the baseline config we use for all games.
 - Set **System > Docked Mode** to *Enabled* unless you're tight on RAM
 - Set **Applets > Airplane Mode** to *Enabled*
 - Set **Graphics > Optimise SPIRV output** to *On Load*
-- Set **Graphics GPU Mode** to *Fast*
+- Set **Graphics > GPU Mode** to *Fast*
 - Set **Graphics > Anisotropic filtering** to *x16*
 - Set **Graphics > ASTC Decoding Method** to *GPU*
 - Set **Graphics > ASTC Recompression Method** to *Uncompressed*
