@@ -1,4 +1,4 @@
-# GameNative Guide
+# Secret Console Emulator Guide
 
 
 Once installed, don't forget to import your own secret console firmware dump and matching prod dot keys file.
