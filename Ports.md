@@ -2,6 +2,7 @@
 
 | Game | Origin | Source |
 | - | - | - |
+| Black | XBOX | https://github.com/RanggaCasper/Black-Android/releases |
 | Bloodborne | PS4 | https://github.com/ducvd89/Bloodborne-Android/releases |
 | Burnout 3 Takedown | XBOX | https://github.com/xenophobentx/takedawn/releases |
 | Dead or Alive Xtreme Beach Volleyball | XBOX | https://github.com/Wannamingo/DoAXBV/releases |
