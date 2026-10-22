@@ -11,3 +11,8 @@
 | GoldenEye | X360 | https://github.com/jeffory/GoldenEye-Recomp/releases |
 | Halo Combat Evolved | XBOX | https://github.com/OpenCommunityEdition/OpenCE/releases |
 | Zelda Twilight Princess | NGC | https://github.com/TwilitRealm/dusklight/releases |
+
+Drivers (8Gen2)
+
+https://github.com/The412Banner/Banners-Turnip/releases
+https://github.com/MrPurple666/purple-turnip/releases
