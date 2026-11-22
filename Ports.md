@@ -4,6 +4,7 @@
 | - | - | - |
 | Black | XBOX | https://github.com/RanggaCasper/Black-Android/releases |
 | Burnout 3 Takedown | XBOX | https://github.com/xenophobentx/takedawn/releases |
+| Eternal Sonata | X360 | https://github.com/birabittoh/EternalSonataReprise/releases |
 | Forza Horizon 2 | X360 | https://github.com/arcanite24/lavender-shift/releases |
 | Grand Theft Auto 4 | X360 | https://github.com/vaduur/LibertyRecompAndroid/releases |
 | Bloodborne | PS4 | https://github.com/ducvd89/Bloodborne-Android/releases |
