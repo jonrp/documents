@@ -14,6 +14,6 @@
 
 Drivers (8Gen2)
 
-https://github.com/MrPurple666/purple-turnip/releases
-
 https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases
+
+https://github.com/MrPurple666/purple-turnip/releases
