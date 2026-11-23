@@ -20,8 +20,8 @@ Drivers (8Gen2)
 
 https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases
 - https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases#release-v40
-- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases?page=1#release-v37
-- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases?page=1#release-gamesir
+- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases?#release-v37
+- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases?#release-gamesir
 
 https://github.com/MrPurple666/purple-turnip/releases
 - https://github.com/MrPurple666/purple-turnip/releases?page=1#release-vturnip_mrpurple_T30-toasted.adpkg
