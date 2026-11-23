@@ -2,8 +2,6 @@
 
 | Game | Origin | Source |
 | - | - | - |
-| Black | XBOX | https://github.com/RanggaCasper/Black-Android/releases |
-| Burnout 3 Takedown | XBOX | https://github.com/xenophobentx/takedawn/releases |
 | Eternal Sonata | X360 | https://github.com/birabittoh/EternalSonataReprise/releases |
 | Forza Horizon 2 | X360 | https://github.com/arcanite24/lavender-shift/releases |
 | GoldenEye 007 (PC via DroidDeck) | X360 | https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp/releases |
@@ -21,5 +19,9 @@
 Drivers (8Gen2)
 
 https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases
+- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases#release-v40
+- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases?page=1#release-v37
+- https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases?page=1#release-gamesir
 
 https://github.com/MrPurple666/purple-turnip/releases
+- https://github.com/MrPurple666/purple-turnip/releases?page=1#release-vturnip_mrpurple_T30-toasted.adpkg
