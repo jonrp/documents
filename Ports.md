@@ -6,7 +6,11 @@
 | Burnout 3 Takedown | XBOX | https://github.com/xenophobentx/takedawn/releases |
 | Eternal Sonata | X360 | https://github.com/birabittoh/EternalSonataReprise/releases |
 | Forza Horizon 2 | X360 | https://github.com/arcanite24/lavender-shift/releases |
-| Grand Theft Auto 4 | X360 | https://github.com/vaduur/LibertyRecompAndroid/releases |
+| GoldenEye 007 (PC via DroidDeck) | X360 | https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp/releases |
+| Grand Theft Auto IV | X360 | https://github.com/vaduur/LibertyRecompAndroid/releases |
+| Grand Theft Auto V | X360 | https://github.com/andrewnakas/gtav-recomp/releases |
+| Lost Odyssey | X360 | https://github.com/freefrank/LostOdysseyRecomp/releases |
+| Perfect Dark (PC via DroidDeck) | X360 | https://github.com/CaiusCodes/Perfect-Dark-XBLA-PC-Recomp/releases |
 | Bloodborne | PS4 | https://github.com/ducvd89/Bloodborne-Android/releases |
 | God of War III Remastered | PS4 | https://github.com/zFitness/gow3_android/releases |
 | Uncharted Collection | PS4 | https://github.com/revvv991/uncharted-android/releases |
