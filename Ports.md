@@ -13,7 +13,6 @@
 | God of War III Remastered | PS4 | https://github.com/zFitness/gow3_android/releases |
 | Uncharted Collection | PS4 | https://github.com/revvv991/uncharted-android/releases |
 | Zelda Twilight Princess | NGC | https://github.com/TwilitRealm/dusklight/releases |
-| Wind Waker | NGC | https://github.com/chrissotraidis/bluewake/releases |
 | Wind Waker HD | Wii U | https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases |
 
 Drivers (8Gen2)
