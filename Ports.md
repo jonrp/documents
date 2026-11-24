@@ -2,6 +2,7 @@
 
 | Game | Origin | Source |
 | - | - | - |
+| Blue Dragon | X360 | https://github.com/JayElDragon/blue-dragon-android/releases |
 | Eternal Sonata | X360 | https://github.com/birabittoh/EternalSonataReprise/releases |
 | Forza Horizon 2 | X360 | https://github.com/arcanite24/lavender-shift/releases |
 | GoldenEye 007 (PC via DroidDeck) | X360 | https://github.com/CaiusCodes/GoldenEye-007-XBLA-PC-Recomp/releases |
@@ -24,3 +25,9 @@ https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases
 
 https://github.com/MrPurple666/purple-turnip/releases
 - https://github.com/MrPurple666/purple-turnip/releases?page=1#release-vturnip_mrpurple_T30-toasted.adpkg
+
+https://github.com/bmdhacks/armsx2-turnip/releases
+- https://github.com/bmdhacks/armsx2-turnip/releases#release-axfl3-004
+
+https://github.com/bmdhacks/malisx2/releases
+- https://github.com/bmdhacks/malisx2/releases#release-v0.6.1
