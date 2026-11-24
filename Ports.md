@@ -16,7 +16,7 @@
 | Zelda Twilight Princess | NGC | https://github.com/TwilitRealm/dusklight/releases |
 | Wind Waker HD | Wii U | https://github.com/ZeldaWWHDRecomp/ZeldaWWHDRecomp/releases |
 
-Drivers (8Gen2)
+Drivers
 
 https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases
 - https://github.com/StevenMXZ/Adreno-Tools-Drivers/releases#release-v40
